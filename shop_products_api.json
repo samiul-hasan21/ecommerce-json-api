@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "price": 1199.99,
+        "image": "https://www.gadstyle.com/wp-content/uploads/2025/02/beats-solo-4-bluetooth-wireless-on-ear-headphones-6-600x600.webp"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 11499.99,
+        "image": "https://i02.appmifile.com/30_operatorx_operatorx_opx/24/06/2024/965dad479bbe458c5119d225cea6ba5e.png"
+    },
+    {
+        "id": 3,
+        "name": "Laptop",
+        "price": 51899.99,
+        "image": "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/laptops-and-2-in-1s/new/bf-updates/media@2x1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Smartwatch",
+        "price": 11199.99,
+        "image": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Wireless Earbuds",
+        "price": 979.99,
+        "image": "https://i5.walmartimages.com/seo/Wireless-Earbuds-Bluetooth-Headset-Microphone-Touch-Control-IPX7-Waterproof-High-Fidelity-Stereo-Earphones-Sports-Work-Compatible-iPhone-13-Pro-Max-X_46aee4c1-6217-4138-ac3b-a95155d09478.9692a0322d647d5d967baa7a1db1447a.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Digital Camera",
+        "price": 28349.99,
+        "image": "https://acmartbd.com/wp-content/uploads/2015/05/Canon-PowerShot-SX520-HS-Digital-Camera.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Gaming Console",
+        "price": 78299.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/25c9f65dfee63520a26c865191e85a96.jpg_720x720q80.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bluetooth Speaker",
+        "price": 2129.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkzm330_QXVLpQJnT6jKW3ixSYYI9Vka9t6Q&s"
+    }
+]
